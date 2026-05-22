@@ -84,9 +84,9 @@ I'd love to connect and collaborate! Feel free to reach out through any of these
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Activity
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=IrajFatima&show_icons=true&theme=radical)
+[![GitHub Streak](https://streak-stats.demolab.com?user=IrajFatima&theme=radical)](https://git.io/streak-stats)
 
 ---
 
